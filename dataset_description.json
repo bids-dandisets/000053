@@ -1,0 +1,25 @@
+{
+    "Name": "Recordings from medial entorhinal cortex during linear track and open exploration",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset contains two task types. The first is tetrode recordings from medial entorhinal cortex during open field navigation with simultaneous inertial measurements of the head, and the second is Neuropixel recordings from medial entorhinal cortex during navigation down a virtual linear track with simultaneous eye measurements.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Mallory, Caitlin S.",
+        "Hardcastle, Kiah",
+        "Campbell, Malcolm G.",
+        "Attinger, Alexander",
+        "Low, Isabel I. C.",
+        "Raymond, Jennifer L.",
+        "Giocomo, Lisa M."
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
